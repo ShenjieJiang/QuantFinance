@@ -14,6 +14,7 @@ from pathlib import  Path
 
 AccessKeyId = SETTINGS["oss.accesskey"]
 AccessKeySecret = SETTINGS["oss.secret"]
+
 BucketName = SETTINGS["oss.bucketname"]
 Endpoint = SETTINGS["oss.endpoint"]
 
