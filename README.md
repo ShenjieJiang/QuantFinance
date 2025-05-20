@@ -1,2 +1,3 @@
 # QuantFinance
 Backtest, Factors etc...
+选股版本 是最新的选股版本， full data都是旧版本
